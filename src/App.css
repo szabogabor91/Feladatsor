@@ -1,0 +1,10 @@
+.navigationButtons {
+  padding: 15px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+}
